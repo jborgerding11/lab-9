@@ -10,7 +10,7 @@
 # Run the two pip commands below at the terminal prompt before running the code for the first time
 # pip install chromadb
 # pip install pysqlite3-binary
-query = "What college football stadiums have the best game-day atmosphere?"
+query = "How do I grow wealth steadily without too much risk??"
 
 import ast # python parser we use to turn a string to list, i.e., []
 __import__('pysqlite3') #  module name determined at runtime (two commands below)
